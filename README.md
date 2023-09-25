@@ -22,8 +22,14 @@
 *Para la uni bockchain suda, pero puedo hacer un capitulo aplicando todo en el juego que nos ocupa, pero más tipo anexo o añadirlo una vez entregado
 
 Bibliografía:
+
 	1.1-
+ 
 	1.2-
+ 
 	1.3-
+ 
 	2.1-Manual de Mukund Sundararajan: https://crypto.stanford.edu/portia/papers/mukund-thesis.pdf
+ 
 	2.2-
+ 
