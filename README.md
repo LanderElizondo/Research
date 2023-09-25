@@ -11,7 +11,7 @@
 	
 2-Aplicación modelo
 
- 	2.1-Cost sharing ("Is Shapley cost sharing optimal?" paper )
+ 	2.1-Cost sharing
   
 	2.2-
  
@@ -23,13 +23,16 @@
 
 Bibliografía:
 
-	1.1-
+	1.1-	Shapley Values: https://sci-hub.hkvisa.net/10.1007/bf01254542
+ 				https://link.springer.com/article/10.1007/s10479-015-1859-8
+     				https://www.sciencedirect.com/science/article/abs/pii/S1574000502030163
  
-	1.2-
+	1.2-	 A. Mas-Colell, M. D. Whinston, and J. R. Green. Microeconomic Theory. Oxford University Press, 1995.
  
-	1.3-
+	1.3-	Sybil paper Bruno
  
-	2.1-Manual de Mukund Sundararajan: https://crypto.stanford.edu/portia/papers/mukund-thesis.pdf
+	2.1:	Is Shapley cost sharing optimal?": https://timroughgarden.org/papers/IsShapley.pdf
+ 		Manual de Mukund Sundararajan: https://crypto.stanford.edu/portia/papers/mukund-thesis.pdf
  
 	2.2-
  
