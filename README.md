@@ -23,7 +23,8 @@
 
 Bibliografía:
 
-	1.1-	Shapley Values: https://sci-hub.hkvisa.net/10.1007/bf01254542
+	1.1-	Martin J. Osborne and Ariel Rubinstein. A Course in Game Theory. The MIT Press, July 1994
+ 		Shapley Values: https://sci-hub.hkvisa.net/10.1007/bf01254542
  				https://link.springer.com/article/10.1007/s10479-015-1859-8
      				https://www.sciencedirect.com/science/article/abs/pii/S1574000502030163
  
